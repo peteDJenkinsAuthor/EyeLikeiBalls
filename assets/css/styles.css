@@ -277,7 +277,7 @@ h2.title{
   .catalog {
     grid-template-columns:1fr;
   }
-
+}
 .book{
   position:relative;
   background: var(--void-3);
