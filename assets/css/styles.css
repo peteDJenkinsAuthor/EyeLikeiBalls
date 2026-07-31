@@ -309,7 +309,7 @@ h2.title{
   letter-spacing: 0.22em;
   text-transform: uppercase;
   color: var(--bone);
-  background: linear-gradient(rgba(10,8,6,0.15), rgba(10,8,6,0.75));
+  background: linear-gradient(rgba(10,8,6,0.015), rgba(10,8,6,0.075));
 }
 
 .book h3{
