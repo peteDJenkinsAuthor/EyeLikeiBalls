@@ -273,6 +273,8 @@ h2.title{
   grid-template-rows: repeat(2, auto);
   gap: 20px;
 }
+@media (max-width:600px){
+  .catalog-grid{ grid-template-columns:1fr; }
 
 .book{
   position:relative;
