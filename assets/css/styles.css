@@ -269,8 +269,9 @@ h2.title{
 /* ---------- catalog ---------- */
 .catalog{
   display:grid;
-  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
-  gap: 34px;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, auto);
+  gap: 20px;
 }
 
 .book{
