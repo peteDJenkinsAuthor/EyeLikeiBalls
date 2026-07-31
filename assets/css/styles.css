@@ -273,7 +273,7 @@ h2.title{
   grid-template-rows: repeat(2, auto);
   gap: 2px;
 }
-@media (max-width:600px){
+@media (max-width:970px){
   .catalog {
     grid-template-columns:1fr;
   }
