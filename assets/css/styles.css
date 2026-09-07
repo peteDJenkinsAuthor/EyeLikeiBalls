@@ -498,6 +498,14 @@ h2.title{
   margin: 0 0 16px;
 }
 
+@media (max-width:970px){
+  .videoclp {
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+  }
+}
+
 .readlink{
   font-family: var(--label);
   font-size: 11.5px;
